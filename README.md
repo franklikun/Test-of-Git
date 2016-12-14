@@ -1,2 +1,1 @@
-# Test-of-Git
-test for git 
+this is git project from China
